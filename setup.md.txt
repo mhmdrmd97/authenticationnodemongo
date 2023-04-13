@@ -1,0 +1,5 @@
+1)npm init -y
+2)npm i -D typescript
+3)npm i -D ts-node
+4)npm i -D nodemon
+5)type nul> tsconfig.json
